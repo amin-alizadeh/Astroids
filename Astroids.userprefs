@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\workspace\KS_Mockup\Assets\Scripts\GestureModel\Modeler.cs">
+    <Files>
+      <File FileName="..\..\workspace\KS_Mockup\Assets\Scripts\Tests\PointsAnalyzer.cs" Line="45" Column="22" />
+      <File FileName="..\..\workspace\KS_Mockup\Assets\Scripts\Gestures\GesturesDirections.cs" Line="195" Column="1" />
+      <File FileName="..\..\workspace\KS_Mockup\Assets\Scripts\GestureModel\Modeler.cs" Line="33" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

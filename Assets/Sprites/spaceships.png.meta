@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: 75bf0e14ad54d9c43a1464a96074ea81
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 30
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spaceships_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 187
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 187
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 219
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: GreenSpaceShip
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 211
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 179
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 180
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 147
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BlueMediumSpaceShip
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 137
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 141
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 152
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 132
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 132
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_12
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 135
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 135
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: BlueBlaster
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 119
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_16
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 119
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 101
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 124
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 97
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 107
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_21
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 102
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_22
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 85
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 63
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_24
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 46
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 46
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 35
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: spaceships_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
